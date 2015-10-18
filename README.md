@@ -1,4 +1,4 @@
-CKEditor 4
+CKEditor 4 with Upload Image addon
 ==========
 
 Copyright (c) 2003-2014, CKSource - Frederico Knabben. All rights reserved.  
